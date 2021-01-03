@@ -1,0 +1,17 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #000000;
+}
+.titulo-principal {
+  text-align: center;
+  font-size: 30px;
+  color: #ffffff;
+  font-weight: bold;
+  width: 940px;
+  margin: 0 auto;
+  padding: 3em 0;
+}
+.banner {
+  width: 940px;
+  margin: 0 auto;
+}
