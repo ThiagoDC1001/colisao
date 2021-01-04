@@ -1,11 +1,11 @@
 body {
   font-family: "Montserrat", sans-serif;
-  background: #000000;
+  //**background: #000000;**//
 }
 .titulo-principal {
   text-align: center;
   font-size: 30px;
-  color: #ffffff;
+  color: #000000;
   font-weight: bold;
   width: 940px;
   margin: 0 auto;
@@ -14,4 +14,27 @@ body {
 .banner {
   width: 940px;
   margin: 0 auto;
+}
+.principal {
+  margin: 1em 0;
+}
+.titulo {
+  font-weight: bold;
+  padding: 1em;
+  text-align: center;
+}
+.subtitulo {
+  font-style: italic;
+  text-align: center;
+  padding: 1em;
+}
+.texto {
+  text-align: center;
+  margin: 0 auto;
+}
+.bemvindos {
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  padding: 3em;
 }
